@@ -1,4 +1,8 @@
-<h1 style="text-align: center;">Deep Learning: Foundations and Concepts</h1>
+<h1 align="center">
+Deep Learning: Foundations and Concepts
+</h1>
+
+
 
 <p align="center">
   <b>Language | </b>

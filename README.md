@@ -5,8 +5,6 @@ Deep Learning: Foundations and Concepts
 
 
 <p align="center">
-  <b>Language | </b>
-  <a href="README_EN.md">English</a> |
   <b>中文</b>
 </p>
 

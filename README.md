@@ -16,10 +16,6 @@ Deep Learning: Foundations and Concepts
 
 仓库按以下方式组织：
 
-- **Book/** - 书籍相关材料
-  - **Book_PDF/** - 书籍的PDF版本
-  - **Book_PNG/** - 书籍的PNG版本
-
 - **Code/** - 代码示例和练习笔记本
   - 包含涵盖手写数字识别、PyTorch入门、神经网络实现（包括UNet架构）等主题的Jupyter笔记本
 
